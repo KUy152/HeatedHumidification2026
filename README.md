@@ -2,7 +2,7 @@
 ## Impact of Power Disruptions on Heated Humidification During Infant Respiratory Support
 
 Author: Kenneth Uy
-Date: May 4, 2026
+Date: 2026 May 05
 License: MIT License
 
 --------------------------------------------------
@@ -82,7 +82,7 @@ pip install pyserial
 USAGE
 
 1. Clone repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://https://github.com/Wolfram921/HeatedHumidification2026
 cd your-repo-name
 
 2. Configure serial port in Python script:
@@ -97,7 +97,7 @@ Press Ctrl + C
 --------------------------------------------------
 
 OUTPUT FORMAT
-YYYY-MM-DD HH:MM:SS,<RH>,<Temperature>
+<YYYY-MM-DD>,<HH:MM:SS>,<RH>,<Temperature>
 
 Example:
 2024-12-20 17:38:06,47.70,27.60

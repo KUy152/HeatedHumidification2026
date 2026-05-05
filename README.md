@@ -33,7 +33,7 @@ REPOSITORY CONTENTS
 - DHT22SerialMonitorCollect.py
   Python script for serial data acquisition and logging
 
-- DHT22SerialMonitorCollect/DHT22SerialMonitorCollect.ino
+- Arduino/DHT22SerialMonitorCollect.ino
   Arduino script for reading DHT22 sensor data and sending it via serial
 
 - dht_data_log.txt
